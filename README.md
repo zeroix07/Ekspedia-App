@@ -1,5 +1,4 @@
-# Ekspedia : A Generative AI - Based Platform for Market Intelligence 
-and Trade Assistance
+# Ekspedia : A Generative AI - Based Platform for Market Intelligence and Trade Assistance
 
 ## Tema: Pemberdayaan UMKM untuk Ekspor
 
